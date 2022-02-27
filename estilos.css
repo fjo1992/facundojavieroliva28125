@@ -249,6 +249,9 @@
   .bucle {
     font-size: 10px;
   }
+  .seccionContacto1 {
+    display: none;
+  }
 }
 
 /* fin @media all and (max-width: 599px) */
@@ -500,6 +503,9 @@
   }
   .bucle {
     font-size: 10px;
+  }
+  .seccionContacto1 {
+    display: none;
   }
 }
 
